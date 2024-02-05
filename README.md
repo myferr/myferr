@@ -8,7 +8,7 @@ python developer and graphic designer.
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=myferr&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myferr&theme=ayu-mirage&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&theme=ayu-mirage&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=myferr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
