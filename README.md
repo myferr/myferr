@@ -1,8 +1,10 @@
 # 💫About Me :
-Hey 👋! 
-I'm **Myfer**, a junior full-stack web developer,
+Hello, there 👋! 
+
+My name is **Myfer**, and I am a junior full-stack web developer,
 python developer and graphic designer.
-Programming is a passion of mine that I take very seriously, and because of my vast journey in the world of programming I've learned:
+
+As a passionate programmer, I take my work very seriously, and as a result of my experience I have gained the following knowledge:
 * Python 🐍
 * Web Development 💻
 * Shell script **>_**
