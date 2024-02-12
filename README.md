@@ -18,7 +18,7 @@ As a passionate programmer, I take my work very seriously, and as a result of my
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=myferr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myferr&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![]([https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://camo.githubusercontent.com/134db0641361eefca5644e8d230dff6bca8a5c4e22005cd3ecadcdcc945eaeb9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d7966657272267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c7365)https://camo.githubusercontent.com/134db0641361eefca5644e8d230dff6bca8a5c4e22005cd3ecadcdcc945eaeb9/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d7966657272267468656d653d746f6b796f6e6967687426686964655f626f726465723d66616c7365)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=myferr&icon=5&color=12)](https://visitcount.itsvg.in)
