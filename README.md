@@ -2,7 +2,7 @@
 Hello, there 👋! 
 
 My name is **Myfer**, and I am a web developer,
-python developer and graphic designer.
+python developer, CLI developer, and graphic designer.
 
 I've been programming for 4 years.
 
