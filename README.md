@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hello, there 👋! <br><br>My name is **Myfer**, and I am a web developer,<br>python developer, CLI developer, and graphic designer.<br><br>I've been programming for 4 years.<br><br>As a passionate programmer, I take my work very seriously, and as a result of my experience I have gained the following knowledge:<br>* Python 🐍<br>* Web Development 💻<br>* Shell script **>_**<br>* Electron, Flask and more 🖥️<br>* Vue, Svelte, etc.
+Hello, there 👋! <br><br>My name is **Myfer**, and I am a web developer,<br>python developer, CLI developer, and graphic designer.<br><br>I've been programming for 4 years.<br><br>As a passionate programmer, I take my work very seriously, and as a result of my experience I have gained the following knowledge:
+* Python 🐍
+* Web Development 💻
+* Shell script **>_**
+* Electron, Flask and more 🖥️
+* Vite, Vue, Svelte, etc. 🟪🟩🟧
 
 
 ## 🌐 Socials:
