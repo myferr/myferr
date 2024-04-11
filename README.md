@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 ### Languages
-![(https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md)]
+![](https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=myferr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myferr&theme=dark&hide_border=true)<br/>
