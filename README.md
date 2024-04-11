@@ -13,7 +13,7 @@ Hello, there 👋! <br><br>My name is **Myfer**, and I am a web developer,<br>py
 
 # 💻 Tech Stack:
 ### Languages
-![[](https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md
+![![](https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md
 )](https://github.com/myferr/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=myferr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
