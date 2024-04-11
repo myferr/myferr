@@ -1,6 +1,7 @@
 <p align=center>
-# 💫 About Me:
-Hello, there 👋! <br><br>My name is **Myfer**, and I am a web developer,<br>python developer, CLI developer, and graphic designer.<br><br>I've been programming for 4 years.<br><br>As a passionate programmer, I take my work very seriously, and as a result of my experience I have gained the following knowledge:
+# Hello, there 👋!
+<br>My name is **Myfer**, and I am a web developer,<br>python developer, CLI developer, and graphic designer.<br><br>I've been programming for 4 years.<br><br>As a passionate programmer, I take my work very seriously, and as a result of my experience I have gained the following knowledge:
+</p>
 * Python 🐍
 * Web Development 💻
 * Shell script **>_**
@@ -13,8 +14,8 @@ Hello, there 👋! <br><br>My name is **Myfer**, and I am a web developer,<br>py
 
 # 💻 Tech Stack:
 ### Languages
-![![](https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md
-)](https://github.com/myferr/)
+![(https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md
+)]
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=myferr&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myferr&theme=dark&hide_border=true)<br/>
@@ -25,6 +26,3 @@ Hello, there 👋! <br><br>My name is **Myfer**, and I am a web developer,<br>py
 
 ---
 [![](https://visitcount.itsvg.in/api?id=myferr&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</p>
