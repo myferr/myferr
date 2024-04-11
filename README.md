@@ -33,5 +33,7 @@ print('oh github, my beloved.')
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1157526846229991544)   [![](https://skillicons.dev/icons?i=twitter)](https://twitter.com/githublover)   [![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@myfer)
 
-
+---
+🎶🎶🔥🎶🎵🎶
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vywou2wnldjwiwkblve2p6zz4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/myferr/)
+🎶🎶🎶🎵🔥🎶
