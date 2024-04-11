@@ -29,8 +29,6 @@ What's that? I was to busy drinking tea from my **Invertocat Mug**.
 print('oh github, my beloved.')
 ```
 
-
-🎶🎵🎵 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1157526846229991544)](https://dev.discordprofiles.me/openspotify/1157526846229991544) 🎶🎵🎵
 ## Contact Me!
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1157526846229991544)   [![](https://skillicons.dev/icons?i=twitter)](https://twitter.com/githublover)   [![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@myfer)
