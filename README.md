@@ -12,11 +12,11 @@
 * Electron, Flask and more 🖥️
 
 * Vite, Vue, Svelte, etc. 🟪🟩🟧
+
 <p align="center">
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1157526846229991544) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/githublover) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@myfer) 
-
+  ## 🌐 Socials:
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/users/1157526846229991544)   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/githublover) [![Mastodon[(https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@myfer) 
+</p>
 # 💻 Tech Stack:
 ### Languages
 ![](https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md)
@@ -30,5 +30,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=myferr&icon=0&color=12)](https://visitcount.itsvg.in)
-
-</p>
