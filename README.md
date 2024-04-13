@@ -39,3 +39,15 @@ print('oh github, my beloved.')
 🎶🎶🔥🎶🎵🎶
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vywou2wnldjwiwkblve2p6zz4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/myferr/)
 🎶🎶🎶🎵🔥🎶
+
+<summary>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=myferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=myferr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=myferr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</summary>
