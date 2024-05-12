@@ -18,7 +18,7 @@ My name is **Myfer**, and I am a web developer,<br>python developer, CLI develop
 </p>
 <h2 style="text-align:center;"> Tools </h2>
 <p style="text-align:center;">
-<img src="https://skillicons.dev/icons?i=vscode,vite,npm,nodejs,git,github,cloudflare,vercel,firebase">
+<img src="https://skillicons.dev/icons?i=vscode,vite,bun,nodejs,git,github,cloudflare,vercel,firebase">
 </p>
 ---
 
