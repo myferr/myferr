@@ -10,7 +10,7 @@ My name is **Myfer**, and I am a web developer,<br>python developer, CLI develop
 ---
 <h2 style="text-align:center;"> Languages </h2>
 <p style="text-align:center;">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,bash,md">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,bash,md">
 </p>
 <h2 style="text-align:center;"> Frameworks </h2>
 <p style="text-align:center;">
