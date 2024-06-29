@@ -31,7 +31,7 @@ print('oh github, my beloved.')
 
 ## Contact Me!
 
-[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1157526846229991544)   [![](https://skillicons.dev/icons?i=twitter)](https://twitter.com/githublover)   [![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@myfer)
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1157526846229991544)   [![](https://skillicons.dev/icons?i=mastodon)](https://mastodon.social/@myfer)
 
 ---
 
