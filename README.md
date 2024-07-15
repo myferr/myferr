@@ -40,8 +40,3 @@ print('oh github, my beloved.')
 ![](https://github-readme-streak-stats.herokuapp.com/?user=myferr&theme=dark&hide_border=false)<br/>
 
 ---
-## What I'm Listening To
-
-🎶🎶🔥🎶🎵🎶
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vywou2wnldjwiwkblve2p6zz4e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/myferr/)
-🎶🎶🎶🎵🔥🎶
