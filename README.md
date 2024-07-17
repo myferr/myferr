@@ -1,6 +1,6 @@
 # Hello, there 👋! 
 
-My name is **Myfer**, I am 14 years old and I am a web developer,<br>python developer, CLI developer, graphic designer, and [Twitch streamer.](https://twitch.tv/myferontwitch)<br><br>I've been programming for 4 years.<br><br>As a passionate programmer, I take my work very seriously, and as a result of my experience I have gained the following knowledge:
+My name is **Myfer**, I am 14 years old and I am a web developer,<br>python developer, CLI developer, graphic designer, app developer and [Twitch streamer.](https://twitch.tv/myferontwitch)<br><br>I've been programming for 4 years.<br><br>As a passionate programmer, I take my work very seriously, and as a result of my experience I have gained the following knowledge:
 * Python 🐍
 * Web Development 💻
 * Shell script **>_**
