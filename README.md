@@ -18,7 +18,7 @@ My name is **Myfer**, I am 14 years old and I am a web developer,<br>python deve
 </p>
 <h2 style="text-align:center;"> Tools </h2>
 <p style="text-align:center;">
-<img src="https://skillicons.dev/icons?i=vscode,vite,bun,nodejs,git,github,cloudflare,vercel,firebase">
+<img src="https://skillicons.dev/icons?i=vscode,vite,bun,nodejs,git,github,cloudflare,vercel,firebase,figma">
 </p>
 ---
 
