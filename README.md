@@ -7,7 +7,6 @@ Web developer & designer.
 I'm 14 years old and I've been programming for 4.5 years. I am a web developer, web designer, typography designer, app developer, Python developer, command line interface developer, etc.
 
 * 🌍  I'm based in Florida, United States.
-* 🖥️  See my portfolio at [myfer.dev](http://myfer.dev)
 * ✉️  You can contact me at [contactme.myfer@protonmail.com](mailto:contactme.myfer@protonmail.com)
 * 🧠  I'm learning Next JS
 * 🤝  I'm open to collaborating on interesting projects.
