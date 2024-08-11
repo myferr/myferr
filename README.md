@@ -4,7 +4,7 @@ Hi 👋 My name is Dennis.
 Web developer & designer.
 -------------------------
 
-I'm 14 years old and I've been programming for 4.5 years. I am a web developer, web designer, typography designer, app developer, Python developer, command line interface developer, etc.
+I'm 14 years old and I've been programming for 4.5 years. I am a web developer, web designer, typography designer, graphic designer, app developer, Python developer, command line interface developer, etc.
 
 * 🌍  I'm based in Florida, United States.
 * ✉️  You can contact me at [contactme.myfer@protonmail.com](mailto:contactme.myfer@protonmail.com)
