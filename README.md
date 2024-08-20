@@ -19,7 +19,7 @@ src="https://img.shields.io/twitch/status/myferontwitch?logo=twitchsx&style=for-
 ### Skills
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,mongodb,svelte,vue,react,flask,py,bash,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,go,sass,tailwind,mongodb,svelte,vue,react,flask,py,bash,vite" />
 </p>
 
 ### Socials
