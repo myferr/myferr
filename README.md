@@ -8,7 +8,7 @@ I'm 14 years old and I've been programming for 4.5 years. I am a web developer, 
 
 * 🌍  I'm based in Florida, United States.
 * ✉️  You can contact me at [contactme.myfer@protonmail.com](mailto:contactme.myfer@protonmail.com)
-* 🧠  I'm learning Next JS
+* 🧠  I'm learning Astro
 * 🤝  I'm open to collaborating on interesting projects.
 
 <a href="https://www.github.com/myferr" target="_blank" rel="noreferrer"><img
