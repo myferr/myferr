@@ -4,3 +4,5 @@
   <br/>
  <img src="https://github.com/myferr/myferr/blob/main/messagif.gif?raw=true">
 </p>
+
+* [npmjs.com/~myfer][https://www.npmjs.com/~myfer]
