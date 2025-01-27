@@ -1,8 +1,9 @@
+# Hey, I'm Dennis!
+I create websites, CLI tools, and apps.
+
+# Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,flask,git,github,go,html,js,mongodb,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,discord,discordjs,bun,instagram,cloudflare,vercel,tauri,next,ruby,windows">
+  <img src="https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,flask,git,github,go,html,js,mongodb,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,discord,next,bun,instagram,cloudflare,vercel,tauri,next,ruby,windows">
 
   <br/>
- <img src="https://github.com/myferr/myferr/blob/main/messagif.gif?raw=true">
 </p>
-
-* [npmjs.com/~myfer](https://www.npmjs.com/~myfer)
