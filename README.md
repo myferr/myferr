@@ -29,4 +29,4 @@ Co-Founder
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1157526846229991544)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/myferr)
 
-Email me @ `echo 'Y29udGFjdG1lLm15ZmVyQHBvcnRvbWFpbC5jb20=' | base64 -d`
+Email me @ `echo 'Y29udGFjdG1lLm15ZmVyQHByb3Rvbm1haWwuY29t' | base64 -d`
