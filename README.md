@@ -15,7 +15,7 @@ Front-end web developer (working w/ Next.js, TypeScript, & Tailwind CSS)
 * [x] Current
 
 ---
-* [Gusfer Inc.](https://github.com/PlayBlockiro)
+* [Gusfer Inc.](https://github.com/gusferinc)
 
 Co-Founder
 * [ ] Past experience
