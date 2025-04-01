@@ -16,8 +16,8 @@ Front-end web developer (working w/ Next.js, TypeScript, & Tailwind CSS)
 
 ---
 * [Gusfer Inc.](https://github.com/gusfer-inc)
-
 Co-Founder
+
 * [ ] Past experience
 
 
