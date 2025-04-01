@@ -10,8 +10,8 @@ Founder
 ---
 
 * [PlayBlockiro](https://github.com/PlayBlockiro)
-
 Front-end web developer (working w/ Next.js, TypeScript, & Tailwind CSS)
+
 * [x] Current
 
 ---
