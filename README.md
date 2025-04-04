@@ -30,3 +30,6 @@ Co-Founder
 [![](https://skillicons.dev/icons?i=github)](https://github.com/myferr)
 
 Email me @ `echo 'Y29udGFjdG1lLm15ZmVyQHByb3Rvbm1haWwuY29t' | base64 -d && echo "  <-- That's my email"`
+
+## Profile View Counter
+![](https://komarev.com/ghpvc/?username=myferr)
