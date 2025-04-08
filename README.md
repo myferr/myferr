@@ -3,12 +3,6 @@ I'm 13 years old and have been coding for 5 years,
 I build websites, JavaScript libraries (maybe you've used [intelligent](https://npmjs.com/package/intelligent/) 👀), command line interfaces/utilities, and desktop applications.
 
 ## Work Experience
-* [Nova Design](https://github.com/buildwithnova)
-Founder
-
-* [x] Current
----
-
 * [PlayBlockiro](https://github.com/PlayBlockiro)
 Front-end web developer (working w/ Next.js, TypeScript, & Tailwind CSS)
 
@@ -17,6 +11,13 @@ Front-end web developer (working w/ Next.js, TypeScript, & Tailwind CSS)
 ---
 * [Gusfer Inc.](https://github.com/gusfer-inc)
 Co-Founder
+
+* [ ] Past experience
+
+---
+
+* [Nova Design](https://github.com/buildwithnova)
+Founder
 
 * [ ] Past experience
 
