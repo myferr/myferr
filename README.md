@@ -5,7 +5,7 @@
 ---
 
 # Hey, I'm Dennis!
-I'm 13 years old and have been coding for 5 years,
+I'm 13 years old and have been coding for 5 years.  
 I build websites, JavaScript libraries (maybe you've used [intelligent](https://npmjs.com/package/intelligent/) 👀), command line interfaces/utilities, and desktop applications.
 
 I want to start learning **C**, **Ruby**, **Prisma**, or databases in general,
