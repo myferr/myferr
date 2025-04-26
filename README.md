@@ -11,17 +11,25 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 I want to start learning **C**, **Ruby**, **Prisma**, or databases in general,
 those things would help me create new applications (both web and desktop)
 
-I'm currently working on turning a [Mac Studio M3U](https://apple.com/mac-studio/) into a server so I can self-host some applications (learning Discord.js so probably a Discord bot)
+## What I'm Building Right Now
+- Setting up a self-hosted server on a Mac Studio M3U
+- Learning Discord.js to build custom Discord bots
 
 ## Tech Stack
 ![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,flask,git,github,go,html,js,discordjs,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
+
+## Great open-source apps I use
+* [**Zen**](https://zen-browser.app/) - [Open-source](https://github.com/zen-browser/desktop) Firefox-based browser
+* [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider
+* [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service
+
 
 ## Social Media
 [![](https://skillicons.dev/icons?i=twitter)](https://x.com/myferdoescoding)
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1157526846229991544)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/myferr)
 
-Email me @ `contactme.myfer@protonmail.com`
+Email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.com)
 
 ## Profile View Counter
 ![](https://komarev.com/ghpvc/?username=myferr)
