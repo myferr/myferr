@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="/typewriter.gif" />
+</p>
+
+---
+
 # Hey, I'm Dennis!
 I'm 13 years old and have been coding for 5 years,
 I build websites, JavaScript libraries (maybe you've used [intelligent](https://npmjs.com/package/intelligent/) 👀), command line interfaces/utilities, and desktop applications.
