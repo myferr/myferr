@@ -8,7 +8,7 @@
 I'm 13 years old and have been coding for 5 years.  
 I build websites, JavaScript libraries (maybe you've used [intelligent](https://npmjs.com/package/intelligent/) 👀), command line interfaces/utilities, and desktop applications.
 
-I want to start learning **C**, **Discord.js**, **Prisma**, or databases in general,
+I want to start learning **C**, **Discord.js**, **Prisma**, or databases in general this year,
 those things would help me create new applications (both web and desktop)
 
 ## What I'm Building Right Now
