@@ -16,7 +16,7 @@ those things would help me create new applications (both web and desktop)
 - Learning Discord.js to build custom Discord bots
 
 ## Tech Stack
-![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,flask,git,github,go,html,js,discordjs,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
+![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,flask,git,github,go,html,js,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
 
 ## Great open-source apps I use
 * [**Zen**](https://zen-browser.app/) - [Open-source](https://github.com/zen-browser/desktop) Firefox-based browser
