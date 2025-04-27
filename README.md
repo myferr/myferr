@@ -19,6 +19,7 @@ those things would help me create new applications (both web and desktop)
 ![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,flask,git,github,go,html,js,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
 
 ## Great open-source apps I use
+* [**Revolt**](https://revolt.chat/) - [Open-source](https://github.com/revoltchat) chat application
 * [**Zen**](https://zen-browser.app/) - [Open-source](https://github.com/zen-browser/desktop) Firefox-based browser
 * [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider
 * [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service
