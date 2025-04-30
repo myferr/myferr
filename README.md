@@ -3,6 +3,10 @@
 </p>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=myferr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
 # Hey, I'm Dennis!
 I'm 13 years old and have been coding for 5 years.  
@@ -26,6 +30,8 @@ those things would help me create new applications (both web and desktop)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&hide=css,markdown,java)](https://github.com/myferr/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myferr&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/myferr/)
+
+[![](https://nirzak-streak-stats.vercel.app/?user=myferr&theme=dark&hide_border=true)](https://github.com/myferr/)
 </details>
 
 
