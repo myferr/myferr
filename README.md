@@ -23,7 +23,7 @@ those things would help me create new applications (both web and desktop)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&hide=css,markdown,yaml)](https://github.com/myferr/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&hide=css,markdown)](https://github.com/myferr/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myferr&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/myferr/)
 </details>
