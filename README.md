@@ -16,7 +16,6 @@ I want to start learning **C**, **Discord.js**, **Prisma**, or databases in gene
 those things would help me create new applications (both web and desktop)
 
 ## What I'm Building Right Now
-- Setting up a self-hosted server on a Mac Studio M3U
 - Learning Discord.js to build custom Discord bots
 
 ## Tech Stack
