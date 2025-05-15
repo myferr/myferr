@@ -7,7 +7,7 @@ I'm 13 years old and have been coding for 5 years.
 I build websites, JavaScript libraries (maybe you've used [intelligent](https://npmjs.com/package/intelligent/) 👀), command line interfaces/utilities, and desktop applications.
 
 ## What I'm Building Right Now
-- Learning Discord.js to build custom Discord bots
+- [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge
 
 ## Tech Stack
 ![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,git,github,go,html,js,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
