@@ -10,7 +10,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 - Learning Discord.js to build custom Discord bots
 
 ## Tech Stack
-![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,git,github,go,html,js,nodejs,npm,obsidian,powershell,py,flask,fastapi,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
+![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,git,github,go,html,js,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
