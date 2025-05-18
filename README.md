@@ -22,6 +22,8 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myferr&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/myferr/)
 
 [![](https://nirzak-streak-stats.vercel.app/?user=myferr&theme=dark&hide_border=true)](https://github.com/myferr/)
+
+[![](https://github-profile-trophy.vercel.app/?username=myferr&row=1)](https://github.com/myferr/)
 </details>
 
 
