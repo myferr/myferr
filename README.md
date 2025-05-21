@@ -8,6 +8,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 
 ## What I'm Building Right Now
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge
+- [favemoji](https://github.com/myferr/favemoji) - Turn any emoji into a production-ready favicon
 
 ## Tech Stack
 ![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,git,github,go,html,js,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
