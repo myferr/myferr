@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/typewriter.gif" />
-</p>
-
 # Hey, I'm Dennis!
 I'm 13 years old and have been coding for 5 years.  
 I build websites, JavaScript libraries (maybe you've used [intelligent](https://npmjs.com/package/intelligent/) 👀), command line interfaces/utilities, and desktop applications.
@@ -11,7 +7,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 - [favemoji](https://github.com/myferr/favemoji) - Turn any emoji into a production-ready favicon
 
 ## Tech Stack
-![](https://skillicons.dev/icons?i=apple,astro,bash,css,electron,figma,git,github,go,html,js,nodejs,npm,obsidian,powershell,py,react,swift,tailwind,ts,vite,vscode,vue,sass,svelte,atom,cloudflare,vercel,tauri,next,windows,mdx)
+![](https://skillicons.dev/icons?i=apple,windows,obsidian,vscode,figma,astro,electron,tauri,vue,svelte,react,nextjs,tailwindcss,python,js,ts,html,css,sass,nodejs,npm,swift,bash,powershell,go,cloudflare,vercel,git,github,vite)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
