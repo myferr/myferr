@@ -7,7 +7,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 - [favemoji](https://github.com/myferr/favemoji) - Turn any emoji into a production-ready favicon
 
 ## Tech Stack
-![](https://skillicons.dev/icons?i=apple,windows,obsidian,vscode,figma,astro,electron,tauri,vue,svelte,react,nextjs,tailwindcss,python,js,ts,html,css,sass,nodejs,npm,swift,bash,powershell,go,cloudflare,vercel,git,github,vite)
+![](https://skillicons.dev/icons?i=apple,windows,obsidian,vscode,md,astro,electron,tauri,vue,svelte,react,nextjs,tailwindcss,python,js,ts,html,css,sass,nodejs,npm,swift,bash,powershell,go,cloudflare,vercel,git,github,vite)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
