@@ -5,6 +5,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 ## What I'm Building Right Now
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge
 - [favemoji](https://github.com/myferr/favemoji) - Turn any emoji into a production-ready favicon
+- [dstack](https://github.com/myferr/dstack) - A modern tech stack for front-end web development
 
 ## Tech Stack
 ![](https://skillicons.dev/icons?i=apple,windows,obsidian,vscode,md,astro,electron,tauri,vue,svelte,react,nextjs,tailwindcss,python,js,ts,html,css,sass,nodejs,npm,swift,bash,powershell,go,cloudflare,vercel,git,github,vite)
