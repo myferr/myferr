@@ -6,7 +6,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge
 
 ## Tech Stack
-![](https://skillicons.dev/icons?i=apple,windows,obsidian,vscode,md,astro,electron,tauri,vue,svelte,react,nextjs,tailwindcss,python,js,ts,html,css,sass,nodejs,npm,swift,bash,powershell,go,cloudflare,vercel,git,github,vite)
+[![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew&theme=dark&perline=10)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
