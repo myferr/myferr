@@ -34,6 +34,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 ## Social Media
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1157526846229991544)
 [![](https://skillicons.dev/icons?i=github)](https://github.com/myferr)
+[![](https://skillicons.dev/icons?i=instagram)](https://instagram.com/myferr.r)
 
 Email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.com)
 
