@@ -6,7 +6,6 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge.
 - [pm-wrapper](https://github.com/myferr/pm-wrapper) -  Unofficial desktop wrapper for ProtonMail.
 - [tnpm](https://github.com/myferr/tnpm) - Tiny node package manager.
-- [notion-ui](https://github.com/myferr/notion-ui) - A Notion-like UI library for React.
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,vscode,obsidian&theme=dark&perline=10)](https://github.com/myferr/)
