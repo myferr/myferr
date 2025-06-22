@@ -4,8 +4,6 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 
 ## What I'm Building Right Now
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge.
-- [pm-wrapper](https://github.com/myferr/pm-wrapper) -  Unofficial desktop wrapper for ProtonMail.
-- [safespeak](https://github.com/myferr/safespeak) - Profanity moderation API + SDK
 - [m3-chat](https://github.com/m3-chat) - Open-source, free, no account required, AI chat with 10+ models
 
 ## Tech Stack
