@@ -7,7 +7,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 - [m3-chat](https://github.com/m3-chat) - Open-source, free, no account required, AI chat with 10+ models
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,express,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,vscode,obsidian&theme=dark&perline=10)](https://github.com/myferr/)
+[![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,express,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,githubactions,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,vscode,obsidian&theme=dark&perline=10)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
