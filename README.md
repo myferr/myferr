@@ -5,6 +5,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 ## What I'm Building Right Now
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge.
 - [m3chat](https://github.com/m3chat) - Open-source, free, no account required, AI chat with 15+ models
+- [zengate](https://github.com/myferr/zengate) - Self host your own end-to-end encrypted password manager
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,express,elysia,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,githubactions,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,vscode,obsidian,docker&theme=dark&perline=10)](https://github.com/myferr/)
