@@ -1,6 +1,6 @@
 # Hey, I'm Dennis!
 I'm 13 years old and have been coding for 5 years.  
-I build websites, JavaScript libraries (maybe you've used [intelligent](https://npmjs.com/package/intelligent/) 👀), command line interfaces/utilities, and desktop applications.
+I am a full-stack developer and I build websites, JavaScript libraries, command line interfaces/utilities, and desktop applications.
 
 ## What I'm Building Right Now
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge.
@@ -8,7 +8,7 @@ I build websites, JavaScript libraries (maybe you've used [intelligent](https://
 - [zengate](https://github.com/myferr/zengate) - Self host your own end-to-end encrypted password manager
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,express,elysia,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,githubactions,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,vscode,obsidian,docker&theme=dark&perline=10)](https://github.com/myferr/)
+[![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,express,elysia,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,githubactions,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,vscode,obsidian,docker,rust&theme=dark&perline=10)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
