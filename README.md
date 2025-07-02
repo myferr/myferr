@@ -6,6 +6,7 @@ I am a full-stack developer and I build websites, JavaScript libraries, command 
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge.
 - [m3chat](https://github.com/m3chat) - Open-source, free, no account required, AI chat with 15+ models
 - [meow](https://github.com/myferr/meow) - Terminal-based IRC client written in Rust
+- [uxt](https://github.com/myferr/uxt) - Turn any Ollama LLM into your agentic code partner!
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=rust,go,swift,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows&theme=dark&perline=10)](https://github.com/myferr/)
