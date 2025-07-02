@@ -8,7 +8,7 @@ I am a full-stack developer and I build websites, JavaScript libraries, command 
 - [meow](https://github.com/myferr/meow) - Terminal-based IRC client written in Rust
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=apple,windows,javascript,typescript,express,elysia,python,html,css,sass,tailwindcss,nodejs,swift,bash,powershell,golang,cloudflare,vercel,git,github,githubactions,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,vscode,obsidian,docker,rust&theme=dark&perline=10)](https://github.com/myferr/)
+[![](https://skillicons.dev/icons?i=rust,go,swift,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows&theme=dark&perline=10)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
