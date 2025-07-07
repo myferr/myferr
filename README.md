@@ -5,7 +5,7 @@ I am a full-stack developer and I build websites, JavaScript libraries, command 
 ## What I'm Building Right Now
 - [Finish The Lyric](https://github.com/myferr/finish-the-lyric) - A fun Guilded.gg economy bot to test your musical knowledge.
 - [m3chat](https://github.com/m3chat) - Open-source, free, no account required, AI chat with 15+ models
-- [meow](https://github.com/myferr/meow) - Terminal-based IRC client written in Rust
+- [tinychat](https://github.com/myferr/tinychat) - Self-host your own AI chat using Docker.
 - [uxt](https://github.com/myferr/uxt) - Turn any Ollama LLM into your agentic code partner!
 
 ## Tech Stack
