@@ -3,6 +3,7 @@ I'm 13 years old and have been coding for 5 years.
 I am a full-stack developer and I build websites, JavaScript libraries, command line interfaces/utilities, and desktop applications.
 
 ## What I'm Building Right Now
+- [zama](https://github.com/myferr/zama) - Run local, private LLMs offline using Ollama
 - [gitbot](https://github.com/myferr/gitbot) - A Discord bot for GitHub
 - [x3](https://github.com/myferr/x3) - An economy bot on Discord!
 
