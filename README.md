@@ -5,7 +5,7 @@ I am a full-stack developer and I build websites, JavaScript libraries, command 
 ## What I'm Building Right Now
 - [zama](https://github.com/myferr/zama) - Run local, private LLMs offline using Ollama
 - [gitbot](https://github.com/myferr/gitbot) - A Discord bot for GitHub
-- [x3](https://github.com/myferr/x3) - An economy bot on Discord!
+- [pie](https://github.com/myferr/pie) - Portable, reproducible Python environments powered by Docker 
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=rust,go,swift,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots&theme=dark&perline=10)](https://github.com/myferr/)
