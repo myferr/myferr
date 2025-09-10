@@ -8,7 +8,7 @@ I am a full-stack developer and I build websites, JavaScript libraries, command 
 - [zama](https://github.com/myferr/zama) - Run local, private LLMs offline using Ollama
 
 ## Tech Stack
-[![](https://skillicons.dev/icons?i=rust,go,swift,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots&theme=dark&perline=10)](https://github.com/myferr/)
+[![](https://skillicons.dev/icons?i=rust,go,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots&theme=dark&perline=10)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
