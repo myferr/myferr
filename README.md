@@ -3,9 +3,7 @@ I'm 13 years old and have been coding for 5 years.
 I am a full-stack developer and I build websites, JavaScript libraries, command line interfaces/utilities, and desktop applications.
 
 ## What I'm Building Right Now
-- [mc-server](https://github.com/myferr/mc-server) - 🐳 Minecraft servers in Docker [*See on Docker Hub*](https://hub.docker.com/r/myferr/mc-server)
-- [mjsrv](https://github.com/myferr/mjsrv) - JavaScript library to create Minecraft Java servers
-- [zama](https://github.com/myferr/zama) - Run local, private LLMs offline using Ollama
+- [me](https://github.com/myferr/me) - My personal website, in Rust
 
 ## Tech Stack
 [![](https://skillicons.dev/icons?i=rust,go,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots&theme=dark&perline=10)](https://github.com/myferr/)
