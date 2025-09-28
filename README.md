@@ -20,7 +20,7 @@ email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.
 - [me](https://github.com/myferr/me) - My personal website, in Rust
 
 ## tech stack
-[![](https://skillicons.dev/icons?i=rust,go,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,actix,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots&theme=dark&perline=10)](https://github.com/myferr/)
+[![](https://skillicons.dev/icons?i=rust,go,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,actix,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots,mongodb&theme=dark&perline=10)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
