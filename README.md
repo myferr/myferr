@@ -47,3 +47,5 @@ email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.
 ![](https://komarev.com/ghpvc/?username=myferr)
 
 </samp>
+
+![](https://media.tenor.com/a79FKdYtynQAAAAi/cat-sitting-cats.gif)
