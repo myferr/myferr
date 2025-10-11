@@ -18,6 +18,7 @@ email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.
 
 ## what i'm (probably) building right now!
 - [deo](https://github.com/myferr/deo) - Go-based open source document-oriented JSON database
+- [kevin](https://github.com/myferr/kevin) - kevin's nice enough to share his models, be like kevin.
 
 ## tech stack
 [![](https://skillicons.dev/icons?i=rust,go,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,actix,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots,mongodb&theme=dark&perline=10)](https://github.com/myferr/)
