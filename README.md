@@ -21,7 +21,7 @@ email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.
 - [kevin](https://github.com/myferr/kevin) - kevin's nice enough to share his models, be like kevin.
 
 ## tech stack
-[![](https://skillicons.dev/icons?i=rust,go,typescript,python,javascript,bash,powershell,html,css,sass,express,elysia,tailwindcss,astro,electron,tauri,vuejs,svelte,react,nextjs,vite,yew,actix,nodejs,cloudflare,vercel,docker,githubactions,git,github,vscode,obsidian,apple,windows,bots,mongodb&theme=dark&perline=10)](https://github.com/myferr/)
+[![](https://skills.syvixor.com/api/icons?perline=10&i=actix,apple,astro,bash,bun,cloudflare,css,css3,curl,discordbots,docker,electron,expressjs,ghostty,gin,git,github,githubactions,golang,homebrew,html,huggingface,javascript,macos,markdown,neovim,nextjs,npm,obsidian,ollama,preact,protonmail,protonvpn,protonpass,python,reactjs,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,x,zed,zen,zod,zshell)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
