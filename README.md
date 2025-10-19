@@ -21,7 +21,7 @@ email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.
 - [kevin](https://github.com/myferr/kevin) - kevin's nice enough to share his models, be like kevin.
 
 ## tech stack
-[![](https://skills.syvixor.com/api/icons?perline=10&i=actix,apple,astro,bash,bun,cloudflare,css,css3,curl,discordbots,docker,electron,expressjs,ghostty,gin,git,github,githubactions,golang,homebrew,html,huggingface,javascript,macos,markdown,neovim,nextjs,npm,obsidian,ollama,preact,protonmail,protonvpn,protonpass,python,reactjs,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,x,zed,zen,zod,zshell)](https://github.com/myferr/)
+[![](https://skills.syvixor.com/api/icons?perline=10&i=actix,apple,archlinux,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,homebrew,html,huggingface,javascript,linux,macos,markdown,mongodb,neovim,nextjs,nodejs,npm,obsidian,ollama,python,reactjs,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,x,zed,zen,zod,zshell)](https://github.com/myferr/)
 
 <details>
 <summary>📊 My GitHub Stats</summary>
