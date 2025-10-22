@@ -17,6 +17,7 @@ i am a full-stack developer and i build websites, JavaScript libraries, command 
 email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.com)
 
 ## what i'm (probably) building right now!
+- [config](https://github.com/myferr/config) - blazingly mid config files
 - [deo](https://github.com/myferr/deo) - Go-based open source document-oriented JSON database
 - [kevin](https://github.com/myferr/kevin) - kevin's nice enough to share his models, be like kevin.
 
