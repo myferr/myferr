@@ -19,7 +19,6 @@ email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.
 ## what i'm (probably) building right now!
 - [config](https://github.com/myferr/config) - blazingly mid config files
 - [deo](https://github.com/myferr/deo) - Go-based open source document-oriented JSON database
-- [kevin](https://github.com/myferr/kevin) - kevin's nice enough to share his models, be like kevin.
 
 ## tech stack
 [![](https://skills.syvixor.com/api/icons?perline=10&i=actix,apple,archlinux,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,homebrew,html,huggingface,javascript,linux,macos,markdown,mongodb,neovim,nextjs,nodejs,npm,obsidian,ollama,python,reactjs,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,x,zed,zen,zod,zshell)](https://github.com/myferr/)
