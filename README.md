@@ -20,6 +20,12 @@ email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.
 - [config](https://github.com/myferr/config) - blazingly mid config files
 - [deo](https://github.com/myferr/deo) - Go-based open source document-oriented JSON database
 
+## support me!
+want to support what i do? (building awesome stuff)
+send me a donation on my ko-fi!
+
+[![](https://img.shields.io/badge/DONATE-Ko--fi-ff5e7f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/myfer/)
+
 ## tech stack
 [![](https://skills.syvixor.com/api/icons?perline=10&i=actix,apple,archlinux,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,homebrew,html,huggingface,javascript,linux,macos,markdown,mongodb,neovim,nextjs,nodejs,npm,obsidian,ollama,python,reactjs,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,x,zed,zen,zod,zshell)](https://github.com/myferr/)
 
