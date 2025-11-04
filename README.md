@@ -3,7 +3,7 @@
 ## myferr. [/ˈmaɪˈfɝ/](https://ipa-reader.com/?text=%CB%88ma%C9%AA%CB%88f%C9%9D)
 
   
-i'm 13 years old and have been coding for 5 years.  
+i'm 14 years old and have been coding for 6 years.  
 i am a full-stack developer and i build websites, JavaScript libraries, command line interfaces/utilities, and desktop applications.
 
 [discord](https://discord.com/users/1157526846229991544)
