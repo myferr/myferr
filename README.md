@@ -17,7 +17,8 @@ i am a full-stack developer and i build websites, JavaScript libraries, command 
 email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.com)
 
 ## what i'm (probably) building right now!
-- [discord-oauth-elysia-plugin](https://github.com/myferr/discord-oauth-elysia-plugin) - An Elysia plugin for implementing Discord OAuth2. 
+- [discord-oauth-elysia-plugin](https://github.com/myferr/discord-oauth-elysia-plugin) - An Elysia plugin for implementing Discord OAuth2.
+- [deo](https://github.com/myferr/deo) - Go-based open source document-oriented JSON database 
 
 ## support me!
 want to support what i do? (building awesome stuff)
