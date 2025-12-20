@@ -29,6 +29,8 @@ send me a donation on my ko-fi!
 ## tech stack
 [![](https://skills.syvixor.com/api/icons?perline=10&i=actix,apple,archlinux,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,homebrew,html,huggingface,javascript,linux,macos,markdown,mongodb,neovim,nextjs,nodejs,npm,obsidian,ollama,python,reactjs,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,x,zed,zen,zod,zshell)](https://github.com/myferr/)
 
+(^^ icons provided by [skills.syvixor.com](https://skills.syvixor.com))
+
 <details>
 <summary>📊 My GitHub Stats</summary>
 
