@@ -10,6 +10,14 @@ I focus on building functional tools, that includes web-based applications, desk
 
 I'm 14 years old and have been programming 2019, I know various libraries, frameworks, and languages.
 
+[![wakatime](https://wakatime.com/badge/user/018ec605-1c46-4312-a19d-cb7d0c0db971.svg)](https://wakatime.com/@myferr)
+
+## Support Me!
+
+You can support me by leaving donations/tips on my Ko-fi page, your support helps me expand my projects and keep them open and publicly accessible!
+
+<img src="https://storage.ko-fi.com/cdn/generated/fhfuc7slzawvi/2025-12-29_rest-cde3a047b8de1dbabb430460b73ed739-uurfo9bh.jpg" width=300 height=200 />
+
 ## Knowledge
 
 | Editors | Operating Systems | Programming |
@@ -24,6 +32,9 @@ Learning [Drizzle ORM](https://orm.drizzle.team) and [PostgreSQL](https://postgr
 
 * Home server:
   [Mac Studio M3 Ultra (with 96GB memory)](https://www.apple.com/mac-studio/)
+
+* Keyboard & Mouse:
+  [KeyChron Q5 HE](https://www.keychron.com/products/keychron-q5-he-qmk-wireless-custom-keyboard), [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s)
 
 ## Contact me
 You can find me on [X (fka. Twitter)](https://x.com/myferdoescoding/) or send me an email at [contactme.myfer@protonmail.com](mailto:contactme.myfer@protonmail.com)
