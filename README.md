@@ -1,60 +1,33 @@
-<samp>
+<div align=center>
 
-## myferr. [/ˈmaɪˈfɝ/](https://ipa-reader.com/?text=%CB%88ma%C9%AA%CB%88f%C9%9D)
-
+  <img src="assets/banner.png"></img>
   
-i'm 14 years old and have been coding for 6 years.  
-i am a full-stack developer and i build websites, JavaScript libraries, command line interfaces/utilities, and desktop applications.
+</div>
 
-[discord](https://discord.com/users/1157526846229991544)
-::
-[github](https://github.com/myferr) (<-- you are here!)
-::
-[npm](https://npmjs.com/~myfer)
-::
-[x](https://x.com/myferdoescoding)
+I'm Myfer, pronounced [/ˈmaɪˈfɝ/](https://ipa-reader.com/?text=%CB%88ma%C9%AA%CB%88f%C9%9D). (online alias)
 
-email me @ [`contactme.myfer@protonmail.com`](mailto:contactme.myfer@protonmail.com)
+I focus on building functional tools, that includes web-based applications, desktop applications, command line interfaces, and libraries (for both Python and JavaScript)
 
-## what i'm (probably) building right now!
-- [discord-oauth-elysia-plugin](https://github.com/myferr/discord-oauth-elysia-plugin) - An Elysia plugin for implementing Discord OAuth2.
-- [deo](https://github.com/myferr/deo) - Go-based open source document-oriented JSON database 
+I'm 14 years old and have been programming 2019, I know various libraries, frameworks, and languages.
 
-## support me!
-want to support what i do? (building awesome stuff)
-send me a donation on my ko-fi!
+## Knowledge
 
-[![](https://img.shields.io/badge/DONATE-Ko--fi-ff5e7f?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/myfer/)
+| Editors | Operating Systems | Programming |
+| ------- | ----------------- | ----------- |
+| ![](https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,zed,cursor,neovim) | ![](https://skills.syvixor.com/api/icons?perline=15&i=macos,linux,windows) | ![](https://skills.syvixor.com/api/icons?perline=10&i=actix,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,homebrew,html,huggingface,javascript,linux,macos,markdown,mongodb,neovim,nextjs,nodejs,npm,obsidian,ollama,python,reactjs,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,zod,zshell)
 
-## tech stack
-[![](https://skills.syvixor.com/api/icons?perline=10&i=actix,apple,archlinux,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,homebrew,html,huggingface,javascript,linux,macos,markdown,mongodb,neovim,nextjs,nodejs,npm,obsidian,ollama,python,reactjs,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,x,zed,zen,zod,zshell)](https://github.com/myferr/)
+Learning [Drizzle ORM](https://orm.drizzle.team) and [PostgreSQL](https://postgresql.org)
 
-(^^ icons provided by [skills.syvixor.com](https://skills.syvixor.com))
+## Hardware
+* Personal laptop:
+  [MacBook Pro M4 Max (with 36GB memory)](https://www.apple.com/macbook-pro/)
 
-<details>
-<summary>📊 My GitHub Stats</summary>
+* Home server:
+  [Mac Studio M3 Ultra (with 96GB memory)](https://www.apple.com/mac-studio/)
 
-<br>
+## Contact me
+You can find me on [X (fka. Twitter)](https://x.com/myferdoescoding/) or send me an email at [contactme.myfer@protonmail.com](mailto:contactme.myfer@protonmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myferr&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true&hide=css,markdown,java)](https://github.com/myferr/)
+---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=myferr&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)](https://github.com/myferr/)
-
-[![](https://nirzak-streak-stats.vercel.app/?user=myferr&theme=dark&hide_border=true)](https://github.com/myferr/)
-
-[![](https://github-profile-trophy.vercel.app/?username=myferr&row=1)](https://github.com/myferr/)
-</details>
-
-
-## open-source applications i appreciate
-* [**Revolt**](https://revolt.chat/) - [Open-source](https://github.com/revoltchat) chat application
-* [**Zen**](https://zen-browser.app/) - [Open-source](https://github.com/zen-browser/desktop) Firefox-based browser
-* [**Proton Mail**](https://proton.me/mail/) - [Open-source](https://github.com/ProtonMail) & secure email provider
-* [**ProtonVPN**](https://protonvpn.com/) - [Open-source](https://github.com/ProtonVPN/) VPN service
-
-## profile view counter
-![](https://komarev.com/ghpvc/?username=myferr)
-
-</samp>
-
-![](https://media.tenor.com/a79FKdYtynQAAAAi/cat-sitting-cats.gif)
+![](https://media.tenor.com/uF7WQnFqGnsAAAAi/cecesrhaccc1-on-tiktok-cecesrhaccc1.gif)
