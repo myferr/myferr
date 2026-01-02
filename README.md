@@ -16,9 +16,9 @@ I'm 14 years old and have been programming 2019, I know various libraries, frame
 
 | Editors | Operating Systems | Programming |
 | ------- | ----------------- | ----------- |
-| ![](https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,zed,cursor,neovim) | ![](https://skills.syvixor.com/api/icons?perline=15&i=macos,linux,windows) | ![](https://skills.syvixor.com/api/icons?perline=10&i=actix,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,homebrew,html,huggingface,javascript,linux,macos,markdown,mongodb,neovim,nextjs,nodejs,npm,obsidian,ollama,python,reactjs,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,tauri,typescript,vercel,visualstudiocode,vuejs,zod,zshell)
+| ![](https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,zed,cursor,neovim) | ![](https://skills.syvixor.com/api/icons?perline=15&i=macos,linux,windows) | ![](https://skills.syvixor.com/api/icons?perline=15&i=actix,astro,bash,batch,biome,bun,cloudflare,css3,curl,discordbots,docker,drizzle,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,golang,homebrew,html,huggingface,javascript,markdown,mongodb,neovim,nextjs,nodejs,npm,ollama,postgresql,powershell,pypi,python,reactjs,rest,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,typescript,vercel,visualstudiocode,vite,vitepress,zod,zshell)
 
-Learning [Drizzle ORM](https://orm.drizzle.team) and [PostgreSQL](https://postgresql.org)
+Learning [Crystal](crystal-lang.org)
 
 ## Hardware
 * Personal laptop:
