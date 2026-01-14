@@ -24,8 +24,9 @@ Learning [Crystal](crystal-lang.org)
 * Personal laptop:
   [MacBook Pro M4 Max (with 36GB memory)](https://www.apple.com/macbook-pro/)
 
-* Home server:
-  [Mac Studio M3 Ultra (with 96GB memory)](https://www.apple.com/mac-studio/)
+* Home servers:
+  * [Mac Studio M3 Ultra (with 96GB memory)](https://www.apple.com/mac-studio/)
+  * Alienware Area-51 R2 Desktop (with 32GB memory)
 
 * Keyboard & Mouse:
   [KeyChron Q5 HE](https://www.keychron.com/products/keychron-q5-he-qmk-wireless-custom-keyboard), [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s)
