@@ -17,7 +17,7 @@ i'm 14 years old and have been programming 2019, i know various frameworks, lang
 
 | Editors | Operating Systems | Programming | Others |
 | ------- | ----------------- | ----------- | ------ |
-| ![](https://skills.syvixor.com/api/icons?perline=15&i=visualstudiocode,zed,cursor,neovim) | ![](https://skills.syvixor.com/api/icons?perline=15&i=macos,linux,windows) | ![](https://skills.syvixor.com/api/icons?perline=15&i=actix,astro,bash,batch,biome,bun,css3,curl,discordbots,docker,drizzle,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,golang,html,huggingface,javascript,markdown,mongodb,nextjs,nodejs,ollama,postgresql,powershell,python,reactjs,rest,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,typescript,vite,vitepress,zod,zshell) | ![](https://skillicons.dev/icons?i=vercel,cloudflare,workers) ![](https://skills.syvixor.com/api/icons?perline=15&i=pypi,npm,homebrew) |
+| ![](https://skills.syvixor.com/api/icons?perline=5&i=visualstudiocode,zed,cursor,neovim) | ![](https://skills.syvixor.com/api/icons?perline=5&i=macos,linux,windows) | ![](https://skills.syvixor.com/api/icons?perline=10&i=actix,astro,bash,batch,biome,bun,css3,curl,discordbots,docker,drizzle,electron,elysiajs,expressjs,ghostty,gin,git,github,githubactions,golang,html,huggingface,javascript,markdown,mongodb,nextjs,nodejs,ollama,postgresql,powershell,python,reactjs,rest,rust,sass,shadcnui,skeletonui,svelte,tailwindcss,typescript,vite,vitepress,zod,zshell) | ![](https://skills.syvixor.com/api/icons?perline=5&i=vercel,cloudflare,cloudflareworkers,pypi,npm,homebrew) |
 
 currently learning [Crystal](crystal-lang.org)
 
