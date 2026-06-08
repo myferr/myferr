@@ -1,4 +1,3 @@
-programmer since 2019
+[moved to gitlab](https://gitlab.com/myferrr)
 
-[macbook](https://www.apple.com/macbook-pro/) enjoyer
-
+i will not be moving my projects.
